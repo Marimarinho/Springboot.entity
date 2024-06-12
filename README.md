@@ -1,1 +1,1 @@
-# Springboot.entity
+# TestCurl
